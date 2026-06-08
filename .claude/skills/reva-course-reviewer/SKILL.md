@@ -24,7 +24,8 @@ Independently verify a completed Course File and produce an actionable, evidence
 - `Course_File_Template_DualLevel.md` — what a complete file should contain.
 - `Course_Designer_Guidelines_2026.md` — the design rules each item enforces.
 - `REVA_BTech_Curriculum_Strategy.md` — strategy alignment (dual-level, sort-late, currency, one-mainline).
-- `Curriculum_Visual_Map.md` — verify category, L-T-P, level, and prerequisite continuity.
+- `Docs/<PROGRAM>-v1.md` — the course's **official program scheme of instruction**. Verify code, category, L-T-P-C, contact hours, and CIE/SEE against the **student's program** (AIDS→`Docs/AIDS-v1.md`, AIML→`Docs/AIML-v1.md`, CSE→`Docs/CSE-v1.md`, CS-IT/Cyber→`Docs/CSIT-v1.md`, ISE→`Docs/ISE-v1.md`, IoT→`Docs/IoT-v1.md`) — **not AIDS by default.**
+- `Curriculum_Visual_Map.md` — verify dual-level level (A/Adv/A+Adv), prerequisite continuity, and SIG-track alignment (AIDS-anchored, generalisable).
 - `Course_Design_Verification_DAA.md` — **the worked example; match its format and rigour.**
 
 ## Step 1 — Get the course content
@@ -50,7 +51,7 @@ Clean up the temporary extract file when done.
 Before the checklist, assess against:
 1. **University OBE best practice** — measurable action-verb COs, constructive alignment (CO ↔ activity ↔ assessment), Bloom consistency, integrity, accessibility.
 2. **Curriculum strategy** — dual-level design present and load-bearing; no streaming; sort-late-with-data; currency-underneath.
-3. **Curriculum structure / map** — category and L-T-P treated correctly; level (A/Adv/A+Adv) consistent; prerequisites continuous; SIG-track linkage for SC/W/Proj/Intern.
+3. **Curriculum structure** — the course's **code, category, and L-T-P-C match the student's program scheme in `Docs/<PROGRAM>-v1.md`** (checklist item A2); level (A/Adv/A+Adv) consistent and prerequisites continuous per `Curriculum_Visual_Map.md`; SIG-track linkage for SC/W/Proj/Intern.
 
 ## Step 3 — Run the checklist line by line
 

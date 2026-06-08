@@ -13,7 +13,7 @@
 | ID | Check | Severity | Source |
 |---|---|---|---|
 | A1 | Course identification block complete (faculty, REVA ID, email, programme, code, title, semester/section, AY, duration in sessions, consultation hours). | 🟡 Minor | Template §0 |
-| A2 | **Category, L-T-P-C, and dual-level level (A / Adv / A+Adv / —) match the [Visual Curriculum Map](Curriculum_Visual_Map.md)** for this course. | 🔴 Blocker | Map; Guidelines §2 |
+| A2 | **Course code, category, and L-T-P-C match the program's scheme of instruction** (`Docs/<PROGRAM>-v1.md` for the student's program), and the **dual-level level (A / Adv / A+Adv / —)** matches the [Visual Curriculum Map](Curriculum_Visual_Map.md). | 🔴 Blocker | Docs/ scheme; Map; Guidelines §2 |
 | A3 | The **design treatment matches the L-T-P shape** — e.g. an integrated `1-1-1` course has a real practical/lab component, not theory-only delivery; a `0-0-x` course is rubric-graded. | 🔴 Blocker | Guidelines §3–§4, §6 |
 | A4 | **Prerequisite course(s) recorded** (§10) and consistent with the map's incoming arrows; the mentoring/track link is traceable. | 🟠 Major | Template §10; Map |
 | A5 | School vision/mission and standard front-matter present and current. | 🟡 Minor | Template §0 |

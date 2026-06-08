@@ -1,4 +1,10 @@
-## 
+**SCHOOL OF COMPUTER SCIENCE AND ENGINEERING**
+
+# SCHEME OF INSTRUCTIONS (2026 – 2030 BATCH)
+
+## B. Tech – Information Science and Engineering
+
+<!-- Programme title restored during cleanup; the source export omitted the banner. Confirm the exact official programme name. -->
 
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | > **I Semester**                                                                                                                                                                                                                                       |

@@ -24,17 +24,28 @@ Guide a faculty member from a blank start to a **completed `Course File — Dual
 - `Course_File_Template_DualLevel.md` — the deliverable to fill (sections §0–§22).
 - `Course_Designer_Guidelines_2026.md` — design rules by course category and L-T-P.
 - `REVA_BTech_Curriculum_Strategy.md` — the *why* behind the dual-level design.
-- `Curriculum_Visual_Map.md` — where the course sits: category, L-T-P-C, level, prerequisites.
+- `Docs/<PROGRAM>-v1.md` — the **official 2026 scheme of instruction for each program** (authoritative source for course code, category, L-T-P-C, contact hours, CIE/SEE). Open the one matching the student's program:
+
+  | Program | Scheme doc |
+  |---|---|
+  | AI & Data Science (AIDS) | `Docs/AIDS-v1.md` |
+  | AI & Machine Learning (AIML) | `Docs/AIML-v1.md` |
+  | Computer Science & Engineering (CSE) | `Docs/CSE-v1.md` |
+  | Computer Science & Information Technology / Cyber Security (CS-IT) | `Docs/CSIT-v1.md` |
+  | Information Science & Engineering (ISE) | `Docs/ISE-v1.md` |
+  | Internet of Things & Cyber Security (IoT) | `Docs/IoT-v1.md` |
+
+- `Curriculum_Visual_Map.md` — the dual-level **level (A/Adv/A+Adv)**, **prerequisites**, and **SIG/track alignment** (AIDS-anchored but generalisable across programs).
 - `Course_Design_Workflow.md` — the two-path workflow this skill operationalises.
 
 ## Step 1 — Anchor the course (do this first, always)
 
-Find the course in `Curriculum_Visual_Map.md` and record four facts; they drive every later choice:
+**Identify the student's program first**, then open its scheme in `Docs/<PROGRAM>-v1.md` (mapping above) — the authoritative source for the course's **official code, title, category, L-T-P + total credits, contact hours/week, and CIE/SEE split**. Cross-reference `Curriculum_Visual_Map.md` for the dual-level level, prerequisites, and SIG/track. Programs differ — verify against the *correct* program's scheme, not AIDS by default. Record four facts; they drive every later choice:
 
-1. **Category** (FC / HC / SC / OE / ETC / MC / W / AEC / Proj / Intern)
-2. **L-T-P-C** (e.g. DAA = `1-1-1-3`, an integrated theory+lab course)
-3. **Dual-level level** (A / Adv / A+Adv / —)
-4. **Prerequisite course(s)** (the map's incoming arrows)
+1. **Category** (FC / HC / SC / OE / ETC / MC / W / AEC / Proj / Intern) — from the program scheme
+2. **L-T-P-C** (e.g. DAA = `1-1-1-3`, an integrated theory+lab course) — from the program scheme
+3. **Dual-level level** (A / Adv / A+Adv / —) — from the Visual Map
+4. **Prerequisite course(s)** (the map's incoming arrows) — from the Visual Map
 
 Then confirm the two **program-level** decisions exist (Guidelines §0): the official awareness/advanced **mark ratio** and a **reference exemplar**. If either is missing, **flag it — never invent a local ratio.**
 
